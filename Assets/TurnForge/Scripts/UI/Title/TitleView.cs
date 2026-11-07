@@ -42,6 +42,7 @@ namespace TF.UI.Title
             if (_startButton == null || _resumeButton == null)
             {
                 Debug.LogError("タイトルの新規開始・再開ボタンを設定してください。", this);
+                return;
             }
 
             RefreshButtons();

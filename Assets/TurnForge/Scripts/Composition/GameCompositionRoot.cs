@@ -169,7 +169,7 @@ namespace TF.Composition
         public GameState CurrentState => _gameFlow?.CurrentState ?? GameState.Inactive;
 
         /// <summary>途中のバトルを再開できるか。</summary>
-        public bool CanResumeBattle => _battleSessionService?.HasResumeData == true;
+        public bool CanResumeBattle => _battleSessionService?.HasResumeData == true;  
 
         private void Awake()
         {

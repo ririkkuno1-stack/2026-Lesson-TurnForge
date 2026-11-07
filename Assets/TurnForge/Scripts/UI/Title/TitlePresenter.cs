@@ -92,6 +92,7 @@ namespace TF.UI.Title
         }
 
         /// <summary>タイトルから再開を要求する。</summary>
+        /// 
         private void HandleResumeRequested()
         {
             HandleBattleRequested(true);

@@ -230,6 +230,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e818f3f8f68904e4495703e8ed42e854, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TF.UI.Common.UiSelectionController
+--- !u!114 &358985380 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4324764701794367624, guid: 2e59f3f9cbf152544882571e3e58148a, type: 3}
+  m_PrefabInstance: {fileID: 4351688627875056162}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd4634a4096040249a767cbe79ab14f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Button
 --- !u!1 &391783842 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 516799544589488090, guid: a7abfc4edb5aca24b96e819a829cbf1d, type: 3}
@@ -431,6 +442,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e818f3f8f68904e4495703e8ed42e854, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TF.UI.Common.UiSelectionController
+--- !u!114 &777715812 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 2163819557257029991, guid: 2e59f3f9cbf152544882571e3e58148a, type: 3}
+  m_PrefabInstance: {fileID: 4351688627875056162}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd4634a4096040249a767cbe79ab14f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Button
 --- !u!1 &791997729
 GameObject:
   m_ObjectHideFlags: 0
@@ -678,6 +700,50 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
+--- !u!114 &1527679358 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 5544460988816656945, guid: 2e59f3f9cbf152544882571e3e58148a, type: 3}
+  m_PrefabInstance: {fileID: 4351688627875056162}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd4634a4096040249a767cbe79ab14f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Button
+--- !u!114 &1533500411 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 7333118991925039638, guid: 2e59f3f9cbf152544882571e3e58148a, type: 3}
+  m_PrefabInstance: {fileID: 4351688627875056162}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd4634a4096040249a767cbe79ab14f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Button
+--- !u!114 &1557784038 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 7255153568001681638, guid: 2e59f3f9cbf152544882571e3e58148a, type: 3}
+  m_PrefabInstance: {fileID: 4351688627875056162}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd4634a4096040249a767cbe79ab14f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Button
+--- !u!114 &1638479848 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1316147862157476685, guid: 2e59f3f9cbf152544882571e3e58148a, type: 3}
+  m_PrefabInstance: {fileID: 4351688627875056162}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd4634a4096040249a767cbe79ab14f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Button
 --- !u!1 &1924915841 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8187982273736445460, guid: 41494fdba40c7964ca4f1c54a9653b05, type: 3}
@@ -1185,6 +1251,34 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7048958189316712929, guid: 2e59f3f9cbf152544882571e3e58148a, type: 3}
+      propertyPath: _selectable.Array.size
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 7048958189316712929, guid: 2e59f3f9cbf152544882571e3e58148a, type: 3}
+      propertyPath: '_selectable.Array.data[1]'
+      value: 
+      objectReference: {fileID: 1533500411}
+    - target: {fileID: 7048958189316712929, guid: 2e59f3f9cbf152544882571e3e58148a, type: 3}
+      propertyPath: '_selectable.Array.data[2]'
+      value: 
+      objectReference: {fileID: 1638479848}
+    - target: {fileID: 7048958189316712929, guid: 2e59f3f9cbf152544882571e3e58148a, type: 3}
+      propertyPath: '_selectable.Array.data[3]'
+      value: 
+      objectReference: {fileID: 1527679358}
+    - target: {fileID: 7048958189316712929, guid: 2e59f3f9cbf152544882571e3e58148a, type: 3}
+      propertyPath: '_selectable.Array.data[4]'
+      value: 
+      objectReference: {fileID: 358985380}
+    - target: {fileID: 7048958189316712929, guid: 2e59f3f9cbf152544882571e3e58148a, type: 3}
+      propertyPath: '_selectable.Array.data[5]'
+      value: 
+      objectReference: {fileID: 777715812}
+    - target: {fileID: 7048958189316712929, guid: 2e59f3f9cbf152544882571e3e58148a, type: 3}
+      propertyPath: '_selectable.Array.data[6]'
+      value: 
+      objectReference: {fileID: 1557784038}
     - target: {fileID: 8218324859268095630, guid: 2e59f3f9cbf152544882571e3e58148a, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
